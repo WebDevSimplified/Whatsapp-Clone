@@ -11,19 +11,19 @@
 -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+[![Stargazers][stars-shield]][https://github.com/victoriamcn/BirdieChatApp/stargazers]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![MIT License][license-shield]][https://choosealicense.com/licenses/mit/]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/victoria-mcnorrill/]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <!-- <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
 <h3 align="center">project_title</h3>
 
@@ -186,9 +186,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Victoria McNorrill | [Portfolio](https://www.victoriamcodes.com/)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/github_username/repo_name](https://github.com/victoriamcn/BirdieChatApp)]([https://github.com/github_username/repo_name](https://github.com/victoriamcn/BirdieChatApp)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
