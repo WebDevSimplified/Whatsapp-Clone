@@ -1,0 +1,28 @@
+{
+  "name": "birdiechatapp",
+  "version": "1.0.0",
+  "description": "Cat ipsum dolor sit amet.",
+  "main": "server/server.js",
+  "scripts": {
+    "build": "CI=false && cd client && npm install && npm run build",
+    "install-client": "cd client && npm install",
+    "install-server": "cd server && npm install",
+    "server": "cd server && node server.js",
+    "develop": "concurrently --kill-others-on-fail \"npm run server\" \"npm run start --prefix client\"",
+    "start": "npm run server",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoriamcn/BirdieChatApp.git"
+  },
+  "author": "victoriamcn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victoriamcn/BirdieChatApp/issues"
+  },
+  "homepage": "https://github.com/victoriamcn/BirdieChatApp#readme",
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
