@@ -21,9 +21,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <!-- <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a> -->
+  <!-- <a href="https://github.com/victoriamcn/BirdieChatApp"></a> -->
+    <img src="images/birdiechat.png" alt="Logo" <!-- width="80" height="80"--> >
+  
 
 <h3 align="center">Birdie Chat</h3>
 
