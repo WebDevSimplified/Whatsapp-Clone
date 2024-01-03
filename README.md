@@ -188,7 +188,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Victoria McNorrill | [Portfolio](https://www.victoriamcodes.com/)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/victoriamcn/BirdieChatApp)]([https://github.com/github_username/repo_name](https://github.com/victoriamcn/BirdieChatApp)
+Project Link: [https://github.com/victoriamcn/BirdieChatApp](https://github.com/victoriamcn/BirdieChatApp)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
