@@ -11,10 +11,10 @@
 -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][https://github.com/victoriamcn/BirdieChatApp/stargazers]
+[![Stargazers][stars-shield]](https://github.com/victoriamcn/BirdieChatApp/stargazers)
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][https://choosealicense.com/licenses/mit/]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/victoria-mcnorrill/]
+[![MIT License][license-shield]](https://choosealicense.com/licenses/mit/)
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/victoria-mcnorrill/)
 
 
 
