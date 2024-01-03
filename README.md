@@ -197,7 +197,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
+* Source Code from [WebDevSimplified](https://github.com/WebDevSimplified/Whatsapp-Clone).
 * []()
 * []()
 
